@@ -10,11 +10,11 @@ Repositorios para armazenar o resultado dos meus estudos de Primeiros Passos com
 
 ## 🖥 Aulas de Primeiros Passos Com JavaScript
 
-|Módulo  |Conteudo|
+|Aulas  |Conteudo|
 |-----|-----|
-|Modulo 1|Variaveis e operadores|
-|Modulo 2|Estruturas Condicionais|
-|Modulo 3|Praticando com Variaveis, operadores e Estruturas Condicionais|
+|Aula 1|Variaveis e operadores|
+|Aula 2|Estruturas Condicionais|
+|Aula 3|Praticando com Variaveis, operadores e Estruturas Condicionais|
 
 ## ⏲ Status do Repositório
 
