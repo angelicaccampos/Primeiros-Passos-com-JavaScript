@@ -1,0 +1,25 @@
+console.log('NOTA DA COMPRA');
+
+const precoEtiqueta = 100;
+const condiçãoPagamento = 1;
+
+console.log('Preço da etiqueta: $', precoEtiqueta);
+console.log('Condição de pagamento:', condiçãoPagamento);
+
+function aplicarJuros(valor, juros) {
+    return (valor + (valor * (juros / 100)));
+}
+
+function aplicarDescontos(valor, desconto) {
+    return (valor - (valor * (desconto / 100)));
+}
+
+if (condiçãoPagamento === 1) {
+    console.log('Preço a ser pago: $', aplicarDescontos(precoEtiqueta, 10));
+} else if (condiçãoPagamento === 2) {
+    console.log('Preço a ser pago: $', aplicarDescontos(precoEtiqueta, 15));
+} else if (condiçãoPagamento === 3) {
+    console.log('Preço a ser pago: $', precoEtiqueta);
+} else {
+    console.log('Preço a ser pago: $', aplicarJuros(precoEtiqueta, 10));
+}
