@@ -15,7 +15,7 @@ Repositorios para armazenar o resultado dos meus estudos do curso de Primeiros P
 |Primeiros Passos Com JavaScript|Desafios e exercicios|
 |Funções|Funções e exercicios|
 |Classes e objetos|Estruturas de um objeto, metodos, classes, instancias e exercicios|
-|Arrays e Estruturas de Repetição|Arrays, estruturas de Repetição e exercicios|
+|Arrays e Estruturas de Repetição|Arrays, estruturas de Repetição, depuração e exercicios|
 |||
 
 ## ⏲ Status do Repositório
