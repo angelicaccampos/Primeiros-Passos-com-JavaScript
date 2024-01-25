@@ -12,9 +12,11 @@ Repositorios para armazenar o resultado dos meus estudos do curso de Primeiros P
 
 |Aulas  |Conteudo|
 |-----|-----|
-|Aula 1|Variaveis e operadores|
-|Aula 2|Estruturas Condicionais|
-|Aula 3|Praticando com Variaveis, operadores e Estruturas Condicionais|
+|Primeiros Passos Com JavaScript|Desafios e exercicios|
+|Funções|Funções e exercicios|
+|Classes e objetos|Estruturas de um objeto, metodos, classes, instancias e exercicios|
+|Arrays e Estruturas de Repetição|Arrays, estruturas de Repetição e exercicios|
+|||
 
 ## ⏲ Status do Repositório
 
